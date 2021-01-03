@@ -36,5 +36,5 @@ Thrown together with no respect at all for Python3 or standards.
 
 Todo\:
 - [ ] Cleanup code
-- [ ] Finish basic README
-- [ ] Initial upload
+- [x] Finish basic README
+- [x] Initial upload
