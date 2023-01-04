@@ -23,8 +23,12 @@ Restart Domoticz.
 
 Add "Trafikverket API" in the Hardware tab.
 
-Leave Trafikverket API and Data Format as is.
+Leave Trafikverket API as is.
+
+Change Data Format to  /v2/data.json
+
 Change Road Station to the one closest to you.
+
 https://www.trafikverket.se/trafikinformation/vag/?TrafficType=personalTraffic&map=4.4250257533028705%2F638264.05%2F6710984.49%2F&Layers=RoadWeather%2b
 
 Insert your personal API-Key that you got from:
